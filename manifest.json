@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"ProDentim™ (Official) Get 50% OFF + 02 Free Bonuses",
+  "short_name":"ProDentim™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"ProDentim is a natural nutritional and brand new supplement that encourages getting strong teeth and healthy gums.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
